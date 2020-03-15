@@ -1,0 +1,1 @@
+"D:\V6.35-12.25管理端和代理端解\管理端文件\tool\ResHacker.exe" -addoverwrite D:\V6.35-12.25管理端和代理端解\管理端文件\临时目录\客户端.exe,D:\V6.35-12.25管理端和代理端解\管理端文件\临时目录\客户端.exe,D:\图标1.ico,icongroup,DEFAULT_ICON,
